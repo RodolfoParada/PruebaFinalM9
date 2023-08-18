@@ -4,5 +4,22 @@
         margin: 20px; /* Ajusta el valor de los márgenes según tus preferencias */
        
     }
+/* 
+ .nav-item {
+    background-color: #0f26BD;
+}
 
+
+.nav-item a.nav-link {
+    color: white;
+}   */
+
+.nav-link:hover {
+              background-color: #0f26BD;
+             /* Cambia el color de texto para el hover */
+              color: white;
+        }
+#title{
+    color:#091770;
+}        
 
